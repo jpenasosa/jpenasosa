@@ -1,12 +1,7 @@
 ### 👋 Hi, I’m @jpenasosa
 ---
 
-👀 I’m interested in ...
-- web development,
-- data analytics, and 
-- computer vision.
-
-🌱 I’m currently learning Kubernetes.
+I’m interested in web development, data analytics, and computer vision.
 
 ---
 
